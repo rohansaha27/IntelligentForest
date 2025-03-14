@@ -8,10 +8,25 @@ Climate change has inexorably increased the chances of more damaging and intense
 Types of forest fires: 
 1. Crown Fires - Burns trees up their entire length to the top
 2. Surface Fires - Only burn dried leaves, grasses etc.
-3. Ground Fires - Sometimes called underground or subsurface fires
+3. Ground Fires - Sometimes called underground or subsurface fires.
 
 Causes of forest fires: 
 1. Natural causes e.g. lightning
 2. Man-made causes e.g., cigarette, electric spark
 3. Climatic conditions e.g hotter and drier weather
+
+# Hypothesis: 
+Use climatic conditions of a region and AI to predict the forest fire risk for the region. In this research we would use the features below for forest fire prediction
+1. Minimal Temperature of the day
+2. Maximum Temperature of the day
+3. Rainfall recorded for the day
+4. Solar radiation over the day
+5. Evaporation during the day
+
+# Using the climatic conditions of a region we would predict the forest fire with the categorization below:
+1. No Risk
+2. Low Risk
+3. Medium Risk
+4. High Risk
+
 
