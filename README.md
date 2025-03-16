@@ -29,4 +29,17 @@ Use climatic conditions of a region and AI to predict the forest fire risk for t
 3. Medium Risk
 4. High Risk
 
+# In our research we would try predicting the Forest fires using below Machine learning techniques
+Decision Tree
+Random Forest
+
+# Decision Tree 
+Accuracy of 70%
+Confusion Matrix
+
+# Random Forest 
+Accuracy of 79%
+Confusion Matrix
+
+
 
