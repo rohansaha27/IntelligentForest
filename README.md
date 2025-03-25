@@ -42,6 +42,7 @@ Accuracy of 79%
 Confusion Matrix 
 
 testing...
+testing p2...
 
 
 
